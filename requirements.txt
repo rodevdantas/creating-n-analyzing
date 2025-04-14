@@ -1,0 +1,7 @@
+faker
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+geopandas
