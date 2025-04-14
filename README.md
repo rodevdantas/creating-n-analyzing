@@ -70,6 +70,7 @@ The project was written entirely in Python and focused on hands-on practice, rei
 
 ## 📌 Final Notes
 
+The HTML file for the "Dashboard" page is included in the project, but due to its size and the fact that it contains an interactive chart, it won't render properly on GitHub. To view the chart as intended, you'll need to download the project and open the file locally in your browser.
 This project was a complete exercise from **data creation** to **exploratory analysis and visualization**, allowing me to reinforce core skills in Python for Data Analysis. I combined static and interactive charts, used geospatial data for regional insights, and built a clean and modular project structure for future scalability.
 
 
