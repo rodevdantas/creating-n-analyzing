@@ -4,23 +4,20 @@
 
 This project was developed as part of my learning journey in **Data Analysis using Python**. It consists of two main stages:
 
-1. **Data Creation**: I generated a **realistic synthetic database** using the `Faker` and `Random` libraries, simulating a delivery business scenario with detailed records on:
-   - Orders
-   - Clients
-   - Deliveries
-   - Transactions
-   - Regions
-
-   The dataset was carefully structured and formatted using `Pandas` and `NumPy`, following good practices in data organization.  
-   The final DataFrame contains **100 rows and 23 columns**, representing a wide range of information typically found in real-world logistics and delivery systems.
+1. **Data Creation**: I developed a complete and realistic synthetic database from scratch, with 23 structured variables simulating real-world logistics operations across multiple companies, products, and delivery regions. The dataset includes orders, clients, deliveries, transactions, geographic data, and more. To build it, I used the Faker and Random libraries in combination with loops, concatenation, and incremental aggregation to automate the generation process. Everything was formatted and organized using Pandas and NumPy, following best practices in data structuring. The final DataFrame contains 100 rows and represents a rich and diverse scenario for data exploration and insight generation.
 
 2. **Data Analysis and Visualization**: After building the dataset, I applied descriptive analysis and created a variety of visualizations to extract insights. These included:
-   - Average delivery times and prices per region
-   - Total sales distribution
-   - Histograms and pie charts
-   - Regional comparisons using `GeoPandas` to map sales geographically
+◦ Average delivery times and prices per region
+◦ Total sales distribution
+◦ Histograms and pie charts
+◦ Regional comparisons using GeoPandas to map sales geographically
 
-The project was written entirely in Python and focused on hands-on practice, reinforcing concepts in data handling, statistical analysis, and data visualization.
+The main goal of this project was to practice the full data analysis cycle — from data creation to insight. During development, I faced technical challenges that helped me grow in several areas:
+– Statistical and visual analysis using Seaborn, Matplotlib, Plotly, and GeoPandas
+– GeoJSON file handling and integration with customized maps
+– Clean directory structure and Git-based version control for project management
+
+The project was written entirely in Python and focused on hands-on practice, reinforcing concepts in data handling, statistical thinking, and visual storytelling.
 
 ---
 
